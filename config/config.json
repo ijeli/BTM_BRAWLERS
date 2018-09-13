@@ -14,7 +14,11 @@
     "dialect": "mysql"
   },
   "production": {
-    "user_env_variable":"https://git.heroku.com/secure-shore-65473.git",
+    "username": "root",
+    "password": "Jjb117jjB",
+    "database": "users_db",
+    "host": "127.0.0.1",
+    "port": 3306,
     "dialect": "mysql"
   }
 }
