@@ -14,11 +14,7 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "k7a6nk3dxi2f5ywb",
-    "password": "fyd17by2n2l7wjub",
-    "database": "okxdbjs0ug5p1yc5",
-    "port": 3306,
-    "host": "bbj31ma8tye2kagi.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "user_env_variable":"https://git.heroku.com/secure-shore-65473.git",
     "dialect": "mysql"
   }
 }
