@@ -14,7 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "user_env_variable":"https://git.heroku.com/secure-shore-65473.git",
+    "username": "li0mqoj4akxut8va",
+    "password": "oufvjf72el231ulk",
+    "database": "uhh30oksbmq3o2gs",
+    "host": "m7nj9dclezfq7ax1.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
